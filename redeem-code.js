@@ -51,6 +51,7 @@ async function redeemCoupon(gameCode, couponCode, pidObj) {
 }
   for (const pidObj of data.pid) {
     for (const couponCode of data.couponCode) {
+      
       await redeemCoupon(data.gameCode, couponCode, pidObj);
       // Optional delay to avoid rate limiting
       await new Promise(resolve => setTimeout(resolve, 1000));
