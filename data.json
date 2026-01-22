@@ -4,7 +4,8 @@
         {"name": "Dylaka", "id": "6ABFB71787614E8B8D8C18A2E025DDA5"},
         {"name": "RcGeol", "id": "BE70019AE752435DB3794B82993FB936"},
         {"name": "Red John", "id": "F9EBBCC21F74435B8B5C858DFA50AF5F"},
-        {"name": "Mas Valdi", "id": "D80E55BE70C441AF8592E7FEB3391B19"}
+        {"name": "Mas Valdi", "id": "D80E55BE70C441AF8592E7FEB3391B19"},
+        {"name": "RcGaul", "id": "257030B49D2D4010B595633D851F0609"}
     ],
     "couponCode": [
         "RECONSTRUCTTELUS",
@@ -15,6 +16,7 @@
 "ONEMORETIME",
 "KNIGHTSSEVEN",
 "TRUSTYFRIEND",
-"PALLANUS"
+"PALLANUS",
+"HAPPYSENATIME"
     ]
 }
